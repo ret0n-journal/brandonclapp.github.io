@@ -151,13 +151,14 @@ skills:
       - "Internal and External Audits"
       - "FDA Warning Letter Resolution"
       - "Continuous Improvement"
-  - name: "Soft Skills"
+  - name: "Business Skills"
     level: "Master"
     keywords:
        - "Leadership Development"
        - "Cross-Functional Collaboration"
        - "Project Management"
-       - "Remote Team Management"   
+       - "Remote Team Management"
+       - "Microsoft Power Apps"   
 languages:
   - language: "English"
     fluency: "Native speaker"
