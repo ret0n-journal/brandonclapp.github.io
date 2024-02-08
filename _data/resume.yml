@@ -32,8 +32,8 @@ work:
     summary: >
       miraDry is the first and only FDA cleared procedure to permanently reduce excessive sweat and odor.
     highlights:
-      - 'Established and supervised the CAPA program and CAPA Review Board (CRB), implementing a risk-based CAPA process compliant with CFR 820.100.'
-      - 'Remediated the Quality Management System (QMS) to align with ISO/CFR regulations, with a focus on updating outdated standards and emphasizing Risk Management per ISO 14972.'
+      - 'Established and supervised the CAPA program and CAPA Review Board (CRB), implementing a risk-based CAPA process compliant with CFR 820.100 and ISO 13485.'
+      - 'Remediated the Quality Management System (QMS) to align with ISO/CFR regulations, with a focus on updating outdated standards and emphasizing Risk Management per ISO 14971.'
       - 'Led cross-functional teams to identify root causes, ensuring comprehensive investigation write-ups and reducing the total number of open investigations, leading to critical QMS updates.'
       - 'Reviewed and endorsed design changes and New Product Development (NPD) projects, ensuring adherence to change management processes and patient safety protocols.'
       - 'Conducted thorough internal and external supplier audits, tracking and escalating issues through the CAPA and Supplier Management processes. Provided quarterly data insights to management.'
@@ -70,13 +70,7 @@ work:
       - 'Managed a team of direct and indirect reports facilitating CAPA investigations and escalating issues to the CAPA Review Board.'
       - 'Generated and delivered regular reports on CAPA metrics, fulfilling Monthly, Quarterly, and other ad-hoc requests for management.'
       - 'Successfully reduced the total open CAPAs from 70 investigations to a steady state of 20 active investigations.'
-      - 'Ensured all critical CAPAs created from FDA warning letter findings were complete and properly supported for closure.'
-      - 'Assumed the role of a back-room leader during both internal and external inspections conducted by FDA and other regulatory bodies.'
-      - 'Ensured timely responses and adherence to job functions by all stakeholders to guarantee smooth and successful audits.'
-      - 'Played a pivotal role in closing out the FDA warning letter to the Philips-IGTD division.'
-      - 'Provided expert guidance on Quality Assurance for processes requiring updates to meet the latest CFR and Standards.'
-      - 'Possessed expertise in Parts 820 (QSM) with a focus on 820.100 – Corrective and Preventive Action.'
-      - 'Familiarity with ISO13485 – Quality Management systems and ISO14972 – Risk Management for medical devices.'
+
 
 #volunteer:
   #- organization: "CoderDojo"
@@ -98,7 +92,7 @@ education:
     area: "Cybersecurity and Information Assurance"
     studyType: "Bachelor"
     startDate: "2021-09-01"
-    endDate: "2024-02-01"
+    endDate: "2024-02-06"
 
 awards:
   - title: "Peak of Culture Award"
@@ -146,11 +140,18 @@ skills:
       - "Technical Writing"
       - "Change Management"
       - "Root Cause Analysis"
-      - "ISO 13485, ISO 14971"
+      - "ISO 13485" 
+      - "ISO 14971"
+      - "ISO 9001"
       - "Supplier Management"
       - "Internal and External Audits"
       - "FDA Warning Letter Resolution"
       - "Continuous Improvement"
+      - "Root Cause Analysis"
+      - "Change Management"
+      - "Procedural Technical Writing"
+      - "Documentaiton Review"
+      - "Documentation Management Systems"
   - name: "Business Skills"
     level: "Master"
     keywords:
