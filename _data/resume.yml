@@ -1,0 +1,178 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Brandon Clapp"
+  label: "CAPA Process Architect | Expert in FDA Compliance | Championing Cybersecurity Practices"
+  picture: "/assets/img/bcheadshot.png"
+  email: "ret0n@ret0n.com"
+  phone: "(719) 514-3954"
+  website: "https://ret0n.com"
+  summary: >
+    Cybersecurity enthusiast and seasoned Quality Assurance professional in the medical device industry with certifications including CompTIA Security+ and ISC(2) SSCP. Proven track record in ensuring regulatory compliance, managing remote teams, and crafting effective CAPA strategies. Expert in cGMP, CFRs, and ISO Standards, dedicated to contributing cybersecurity expertise to the medical device sector.
+  location:
+    #address: "2712 Broadway St"
+    #postalCode: "CA 94115"
+    city: "Colorado Springs"
+    countryCode: "US"
+    region: "Colorado"
+  profiles:
+    #- network: "Twitter"
+      #username: "RHendricksCEO"
+      #url: ""
+    - network: "LinkedIn"
+      username: "Brandon Clapp"
+      url: "https://www.linkedin.com/in/reton-brandon-clapp/"
+work:
+  - company: "miraDry"
+    position: "Manager of Quality Engineering and CAPA"
+    website: "https://miradry.com"
+    startDate: "2021-12-01"
+    endDate: "2023-11-01"
+    summary: >
+      miraDry is the first and only FDA cleared procedure to permanently reduce excessive sweat and odor.
+    highlights:
+      - 'Established and supervised the CAPA program and CAPA Review Board (CRB), implementing a risk-based CAPA process compliant with CFR 820.100 and ISO 13485.'
+      - 'Remediated the Quality Management System (QMS) to align with ISO/CFR regulations, with a focus on updating outdated standards and emphasizing Risk Management per ISO 14971.'
+      - 'Led cross-functional teams to identify root causes, ensuring comprehensive investigation write-ups and reducing the total number of open investigations, leading to critical QMS updates.'
+      - 'Reviewed and endorsed design changes and New Product Development (NPD) projects, ensuring adherence to change management processes and patient safety protocols.'
+      - 'Conducted thorough internal and external supplier audits, tracking and escalating issues through the CAPA and Supplier Management processes. Provided quarterly data insights to management.'
+      - 'Held ASQ – CBA (Certified Biomedical Auditor 2014-2019) certification/training, offering expertise in auditing techniques.'
+      - 'Provided strategic insight into documentation and organized validation documentation to support EUMDR submission, ensuring compliance with current standards and guidance.'
+  - company: "Philips"
+    position: "Regulatory Affairs Specialist"
+    website: "https://www.usa.philips.com/healthcare/e/image-guided-therapy"
+    startDate: "2021-06-01"
+    endDate: "2021-12-01"
+    summary: >
+      The Philips portfolio of image-guided therapy (IGT) solutions uniquely integrates best in class imaging systems and software, with specialized diagnostic and therapeutic devices to support exceptional treatment for even the most complex procedures.
+    highlights:
+      - 'Crafted and submitted regulatory strategies for device modifications, ensuring strict compliance with FDA and EUMDR regulations.'
+      - 'Reviewed changes within the established change management process to guarantee no adverse impact on current products or associated processes.'
+      - 'Conducted thorough assessments of both Product and Non-Product changes, steering the determination of requisite regulatory actions.'
+      - 'Provided essential support during the transition from MDD to EUMDR approval for devices currently sanctioned under MDD.'
+      - 'Assisted in evaluating product documentation, fostering close collaboration with cross-functional partners within IGTD.'
+      - 'Offered cross-functional assistance to an international team in meeting registration requests, ensuring the smooth maintenance of global market access.'
+  - company: "Philips"
+    position: "CAPA Manager"
+    website: "https://www.usa.philips.com/healthcare/e/image-guided-therapy"
+    startDate: "2017-10-31"
+    endDate: "2021-06-01"
+    summary: >
+      The Philips portfolio of image-guided therapy (IGT) solutions uniquely integrates best in class imaging systems and software, with specialized diagnostic and therapeutic devices to support exceptional treatment for even the most complex procedures.
+    highlights:
+      - 'Orchestrated the complete lifecycle of the CAPA program at Philips-IGTD, steering initiatives from inception to final approval and closure.'
+      - 'Served as the Business Process Expert (BPE) for CAPA processes within Philips-IGTD, overhauling CAPA process Standard Operating Procedures (SOPs) to align with federal requirements and industry best practices.'
+      - 'Led the cross-site CAPA Review Board, overseeing the assessment of CAPA requests, analysis of metrics, and allocation of resources.'
+      - 'Provided crucial support and training to cross-functional teams in documenting the CAPA process and conducting effective root cause analyses.'
+      - 'Specialized in technical writing, ensuring reviews of investigations result in CAPA documentation with a coherent narrative substantiated by objective evidence.'
+      - 'Spearheaded quarterly training sessions on the CAPA process and investigation writeup strategy for new lead investigators, refining work instructions and training materials based on feedback.'
+      - 'Managed a team of direct and indirect reports facilitating CAPA investigations and escalating issues to the CAPA Review Board.'
+      - 'Generated and delivered regular reports on CAPA metrics, fulfilling Monthly, Quarterly, and other ad-hoc requests for management.'
+
+
+#volunteer:
+  #- organization: "CoderDojo"
+   # position: "Teacher"
+    #website: "https://coderdojo.com/"
+    #startDate: "2012-01-01"
+    #endDate: "2013-01-01"
+    #summary: "Global movement of free coding clubs for young people."
+    #highlights:
+      #- "Awarded 'Teacher of the Month'"
+education:
+  - institution: "University of Nevada Las Vegas"
+    area: "Biological Sciences"
+    studyType: "Bachelor"
+    startDate: "2001-09-01"
+    endDate: "2008-05-01"
+
+  - institution: "Western Governors University"
+    area: "Cybersecurity and Information Assurance"
+    studyType: "Bachelor"
+    startDate: "2021-09-01"
+    endDate: "2024-02-06"
+
+awards:
+  - title: "Peak of Culture Award"
+    date: "2020-11-01"
+    awarder: "Philips"
+    summary: "Exemplifying Quality and Integrity Always"
+#publications:
+  #- name: "Video compression for 3d media"
+    #publisher: "Hooli"
+    #releaseDate: "2014-10-01"
+    #website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    #summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Cybersecurity"
+    level: "Advanced"
+    keywords:
+      - "Security+"
+      - "Network+"
+      - "CySA+"
+      - "Project+"
+      - "ISC(2) SSCP"
+      - "ITIL Foundation"
+      - "Network Administration"
+      - "Firewall Management"
+      - "Windows Administration"
+      - "MacOS Administration"
+      - "Linux Administration"
+      - "Python"
+      - "Visual Basic"
+  - name: "Quality Assurance"
+    level: "Master"
+    keywords:
+      - "CAPA"
+      - "CFR 820.100"
+      - "Qaulity Assurance"
+      - "Regulatory Affairs"
+      - "FDA Regulations"
+      - "ISO Standards"
+      - "Risk Management"
+      - "Compliance Audits"
+      - "Quality Management Systems"
+      - "EUMDR"
+      - "MDSAP"
+      - "Data Analytics"
+      - "Technical Writing"
+      - "Change Management"
+      - "Root Cause Analysis"
+      - "ISO 13485" 
+      - "ISO 14971"
+      - "ISO 9001"
+      - "Supplier Management"
+      - "Internal and External Audits"
+      - "FDA Warning Letter Resolution"
+      - "Continuous Improvement"
+      - "Root Cause Analysis"
+      - "Change Management"
+      - "Procedural Technical Writing"
+      - "Documentaiton Review"
+      - "Documentation Management Systems"
+  - name: "Business Skills"
+    level: "Master"
+    keywords:
+       - "Leadership Development"
+       - "Cross-Functional Collaboration"
+       - "Project Management"
+       - "Remote Team Management"
+       - "Microsoft Power Apps"   
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+interests:
+  - name: "Outdoors"
+    keywords:
+      - "Fishing"
+      - "Hiking"
+      - "Camping"
+references:
+  - name: "Irene Mo - VP of Quality & Regulatory at miraDry"
+    reference: >
+      I highly recommend Brandon! I had the pleasure of managing Brandon for the last six years. 
+      During that time, Brandon demonstrated his extensive knowledge of Quality System requirements in the Medical Device industry, particularly in CAPA, Quality Engineering, Internal and External Audits, and Design Controls. 
+      His proactive, go-getter approach and attention to detail ensured all of his work was completed thoroughly and was of high quality. I have been impressed by his flexibility, capability, and willingness to take on new tasks and provide cross-functional support for our entire organization. 
+      Brandon is a dedicated, hard-working, intelligent, and kind individual, and he would be an asset to any organization! 
+
