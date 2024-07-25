@@ -3,13 +3,13 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Brandon Clapp"
-  label: "CAPA Process Architect | Expert in FDA Compliance | Championing Cybersecurity Practices"
+  label: "CAPA Process Expert | Expert in FDA Compliance | Championing Cybersecurity in Medical Devices"
   picture: "/assets/img/bcheadshot.png"
   email: "ret0n@ret0n.com"
   phone: "(719) 514-3954"
   website: "https://ret0n.com"
   summary: >
-    Cybersecurity enthusiast and seasoned Quality Assurance professional in the medical device industry with certifications including CompTIA Security+ and ISC(2) SSCP. Proven track record in ensuring regulatory compliance, managing remote teams, and crafting effective CAPA strategies. Expert in cGMP, CFRs, and ISO Standards, dedicated to contributing cybersecurity expertise to the medical device sector.
+    Cybersecurity enthusiast and seasoned Quality Assurance professional in the medical device industry with certifications including CompTIA Security+ and ISC(2) SSCP. A strong foundation in Quality Assurance and Regulatory affairs and a proven track record in regulatory compliance, project management, and conducting effective CAPA investigations to improve processes resulting in increased safety and customer satisfaction. Now transitioning into cybersecurity with a unique perspective able to align compliance with business objectives. Expertise in cGMP, CFRs, and ISO Standards, as well as championing cybersecurity risk and compliance standards within regulated industries will provide immediate value to the organization. Refined ability to propose solutions that meet Quality and Regulatory requirements into processes to ensure alignment with business objectives and cost considerations to ensure regulatory expectations are met that drive business success. 
   location:
     #address: "2712 Broadway St"
     #postalCode: "CA 94115"
@@ -32,13 +32,17 @@ work:
     summary: >
       miraDry is the first and only FDA cleared procedure to permanently reduce excessive sweat and odor.
     highlights:
-      - 'Established and supervised the CAPA program and CAPA Review Board (CRB), implementing a risk-based CAPA process compliant with CFR 820.100 and ISO 13485.'
-      - 'Remediated the Quality Management System (QMS) to align with ISO/CFR regulations, with a focus on updating outdated standards and emphasizing Risk Management per ISO 14971.'
-      - 'Led cross-functional teams to identify root causes, ensuring comprehensive investigation write-ups and reducing the total number of open investigations, leading to critical QMS updates.'
+      - 'Crafted and submitted regulatory strategies for device modifications as well as new device designs, ensuring strict compliance with FDA and EUMDR regulations including cybersecurity requirements.'
+      - 'Provided strategic insight into documentation and organized validation documentation to support EUMDR submission, ensuring compliance with current standards and guidance. Submission was successful for EUMDR.'
+      - 'Setup process to review updated regulatory requirements, translation into working SOPs and communicate across the business.'
+      - 'Established and supervised the CAPA program, CAPA Review Board (CRB), while implementing a risk-based CAPA process compliant with CFR 820.100 and ISO 13485.'
+      - 'Remediated the Quality Management System (QMS) to align with Quality and Regulatory requirements, with a focus on updating outdated standards and emphasizing Risk Management per ISO 14971.'
+      - 'Led cross-functional teams to identify root causes, ensuring comprehensive investigation write-ups and reducing the total number of open investigations, leading to critical QMS updates resulting in successful third-party audits.'
       - 'Reviewed and endorsed design changes and New Product Development (NPD) projects, ensuring adherence to change management processes and patient safety protocols.'
-      - 'Conducted thorough internal and external supplier audits, tracking and escalating issues through the CAPA and Supplier Management processes. Provided quarterly data insights to management.'
-      - 'Held ASQ – CBA (Certified Biomedical Auditor 2014-2019) certification/training, offering expertise in auditing techniques.'
-      - 'Provided strategic insight into documentation and organized validation documentation to support EUMDR submission, ensuring compliance with current standards and guidance.'
+      - 'Reviewed updated IFUs, Labels and promotional materials for compliance with standards and regulatory requirements.'
+      - 'Provided and communicated KPI metrics for Quality Management processes responsible for to Senior Management.'
+      - 'Held ASQ – CBA (Certified Biomedical Auditor 2014-2019) certification, offering expertise in auditing techniques to colleagues for internal and external auditing.'
+      - 'Conducted thorough internal and external supplier audits, tracking and escalating issues through the CAPA and Supplier Management processes. Creating new supplier KPIs and escalating issues to suppliers quicker and with information to assist with their root cause investigation led to improved supplier performance and relationships. '
   - company: "Philips"
     position: "Regulatory Affairs Specialist"
     website: "https://www.usa.philips.com/healthcare/e/image-guided-therapy"
@@ -51,6 +55,7 @@ work:
       - 'Reviewed changes within the established change management process to guarantee no adverse impact on current products or associated processes.'
       - 'Conducted thorough assessments of both Product and Non-Product changes, steering the determination of requisite regulatory actions.'
       - 'Provided essential support during the transition from MDD to EUMDR approval for devices currently sanctioned under MDD.'
+      - 'Managed the responses to the EUMDR submission to ensure supported responses to questions from the notified body.'
       - 'Assisted in evaluating product documentation, fostering close collaboration with cross-functional partners within IGTD.'
       - 'Offered cross-functional assistance to an international team in meeting registration requests, ensuring the smooth maintenance of global market access.'
   - company: "Philips"
@@ -61,7 +66,7 @@ work:
     summary: >
       The Philips portfolio of image-guided therapy (IGT) solutions uniquely integrates best in class imaging systems and software, with specialized diagnostic and therapeutic devices to support exceptional treatment for even the most complex procedures.
     highlights:
-      - 'Orchestrated the complete lifecycle of the CAPA program at Philips-IGTD, steering initiatives from inception to final approval and closure.'
+      - 'Orchestrated a risk-based process for the CAPA program at Philips-IGTD, steering initiatives from inception to final approval and closure. Led to lower CAPA numbers for the business as well as direct focus to the problems that required resources to ensure the right problems were the focus.'
       - 'Served as the Business Process Expert (BPE) for CAPA processes within Philips-IGTD, overhauling CAPA process Standard Operating Procedures (SOPs) to align with federal requirements and industry best practices.'
       - 'Led the cross-site CAPA Review Board, overseeing the assessment of CAPA requests, analysis of metrics, and allocation of resources.'
       - 'Provided crucial support and training to cross-functional teams in documenting the CAPA process and conducting effective root cause analyses.'
@@ -69,6 +74,7 @@ work:
       - 'Spearheaded quarterly training sessions on the CAPA process and investigation writeup strategy for new lead investigators, refining work instructions and training materials based on feedback.'
       - 'Managed a team of direct and indirect reports facilitating CAPA investigations and escalating issues to the CAPA Review Board.'
       - 'Generated and delivered regular reports on CAPA metrics, fulfilling Monthly, Quarterly, and other ad-hoc requests for management.'
+      - 'Managed CAPAs to align with yearly business metrics to ensure year over year improvement of the CAPA program by reducing the total number of open CAPAs as well as ensuring greater than 90% effectiveness rate.'
 
 
 #volunteer:
@@ -89,9 +95,15 @@ education:
 
   - institution: "Western Governors University"
     area: "Cybersecurity and Information Assurance"
-    studyType: "Bachelor"
+    studyType: "Bachelor of Science"
     startDate: "2021-09-01"
     endDate: "2024-02-06"
+
+  - institution: "Western Governors University"
+    area: "Cybersecurity and Information Assurance"
+    studyType: "Master of Science"
+    startDate: "2024-04-01"
+    endDate: "2024-06-30"
 
 awards:
   - title: "Peak of Culture Award"
